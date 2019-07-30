@@ -1,4 +1,6 @@
 # hello-world
-Repo Example 
+Repo Exxxxample 
 This will information about myself
-Favorite color : Purple 
+Favorite color : Red
+useless fact #1 : abcdedfg 
+useless fact #2 : 1234
